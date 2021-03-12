@@ -22,6 +22,7 @@ Programação I study programming for 1 year, looking for an opportunity to inte
 - 🔍 I intend to collaborate on <strong> Web front-end development projects </strong>
 - ⚡ Curiosity: I can talk 24 hours a day, 7 days a week about anime and technology. 
 
+</br>
 
 <p align="center">"💡 Plant exchange of experience to reap innovation!"</p>
 
