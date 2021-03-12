@@ -25,7 +25,7 @@ Programação I study programming for 1 year, looking for an opportunity to inte
 
 <h2 align="center">"💡 Plant exchange of experience to reap innovation!"</h2>
 
-<h3 align="left">🛠 Languages and tools:</h3>
+<h5 align="left">🛠 Languages and tools:</h5>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
