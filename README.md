@@ -10,7 +10,7 @@
 </h5>
 <br>
 
-📖 I'm a curious person. In my free time, I like to read, play, watch Japanese animation, program, learn the Japanese language and try new things.
+📖 I'm a curious person. In my free time, I like to read, play, watch Japanese animation, program, learn the English language and try new things.
 
 Programação I study programming for 1 year, looking for an opportunity to intern in the Front-End area, I like to be always learning as much as I can.
 
