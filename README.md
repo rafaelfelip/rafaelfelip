@@ -1,8 +1,8 @@
-<h2 align="center">Rafael Felip | Estudante - Análise e Desenvolvimento de Sistemas | Front-end</h2>
+<h2 align="center">Rafael Felip | Student - Análise e Desenvolvimento de Sistemas | Front-end</h2>
 
   
   
-<h3 align="center">Olá, me chamo Rafael 👋</h3>
+<h3 align="center">Hi!, my name is Rafael 👋</h3>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/rafaelfelip/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -10,19 +10,17 @@
 </h5>
 <br>
 
-📖 Sou uma pessoa curiosa. No meu tempo livre, gosto de ler, jogar, assistir animação japonesa, programar, aprender a língua japonesa e experimentar coisas novas.
+📖 I'm a curious person. In my free time, I like to read, play, watch Japanese animation, program, learn the Japanese language and try new things.
 
-🔰 Estudo programação a 1 ano , procuro oportunidade para estagiar na área de Front-End, gosto de estar sempre aprendendo o máximo que estiver ao meu alcance.
-
-
+Programação I study programming for 1 year, looking for an opportunity to intern in the Front-End area, I like to be always learning as much as I can.
 
 
-- 🔭 Atualmente, estou estudando em <strong> Front - End Web Development </strong> 
-- 🌱 No momento, estou aprendendo <strong> React Native </strong>
-- 🔍 Pretendo colaborar em <strong> Projetos de desenvolvimento de front-end da Web </strong>
-- ⚡ Curiosidade: posso falar 24 horas por dia, 7 dias por semana sobre animes e tecnologia. 
 
 
+- 🔭 I am currently studying at <strong> Front - End Web Development </strong>
+- 🌱 I'm currently learning <strong> React Native </strong>
+- 🔍 I intend to collaborate on <strong> Web front-end development projects </strong>
+- ⚡ Curiosity: I can talk 24 hours a day, 7 days a week about anime and technology. 
 
 
 <h3 align="left">🛠 Languages and tools:</h3>
