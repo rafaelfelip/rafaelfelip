@@ -1,4 +1,4 @@
-<h2 align="center">Rafael Felip | Student - Análise e Desenvolvimento de Sistemas | Front-end</h2>
+<h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>
 
   
   
