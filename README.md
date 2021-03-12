@@ -23,7 +23,7 @@ Programação I study programming for 1 year, looking for an opportunity to inte
 - ⚡ Curiosity: I can talk 24 hours a day, 7 days a week about anime and technology. 
 
 
-<h2 align="center">"💡 Plant exchange of experience to reap innovation!"</h2>
+<p align="center">"💡 Plant exchange of experience to reap innovation!"</p>
 
 <h5 align="left">🛠 Languages and tools:</h5>
 
