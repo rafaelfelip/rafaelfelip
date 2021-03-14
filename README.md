@@ -10,10 +10,10 @@
 </h5>
 <br>
 
-📖 I'm a curious person. In my free time, I like to read, play, watch Japanese animation, program, learn the English language and try new things.
+📖 I am a curious person. In my spare time, I like to read, watch Japanese animations, program and try new things.
 
-📚 I study programming for 1 year, looking for an opportunity to intern in the Front-End area, I like to be always learning as much as I can.
 
+📚 I have been studying programming for 1 year, I am looking for an opportunity to do an internship in the Front-End / Mobile area, I like to be always learning as much as I can. 
 
 
 
