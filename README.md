@@ -1,7 +1,4 @@
-<h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>
-
-  
-  
+<h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>  
 <h3 align="center">Hi!, my name is Rafael 👋</h3>
 <h5 align="center">
   <code>
@@ -37,11 +34,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
 </div>
-
-
-<!--
-**rafaelfelip/rafaelfelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
