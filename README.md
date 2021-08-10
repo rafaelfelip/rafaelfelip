@@ -1,7 +1,7 @@
 <h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>  
 <h3 align="center">Hi!, my name is Rafael 👋</h3>
-<!-- <h5 align="center"> -->
-  <code>
+<h5 align="center">
+<!--   <code> -->
    <div>
   <a href = "mailto: orafaelfelip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelfelip" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
