@@ -1,14 +1,5 @@
 <h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>  
 <h3 align="center">Hi!, my name is Rafael 👋</h3>
-<h5 align="center">
-<!--   <code> -->
-   <div>
-  <a href = "mailto: orafaelfelip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelfelip" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaelfelip.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
-<br>
-    <br>
 
 📖 I am a curious person. In my spare time, I like to read, watch Japanese animations, program and try new things.
 
@@ -22,9 +13,16 @@
 - 🔍 I intend to collaborate on <strong> Web front-end development projects </strong>
 - ⚡ Curiosity: I can talk 24 hours a day, 7 days a week about anime and technology. 
 
-</br>
+ ##
+<div align="center">
+  <a href = "mailto: orafaelfelip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaelfelip" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaelfelip.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <p align="center">"💡 Plant exchange of experience to reap innovation!"</p>
+
+##
 
 <h5 align="left">🛠 Languages and tools:</h5>
 
