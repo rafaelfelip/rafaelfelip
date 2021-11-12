@@ -1,18 +1,13 @@
 <h2 align="center">Rafael Felip | Student - Analysis and systems development | Front-end</h2>  
 <h3 align="center">Hi!, my name is Rafael 👋</h3>
 
-📖 I am a curious person. In my spare time, I like to read, watch Japanese animations, program and try new things.
-
-
-📚 I have been studying programming for 1 year, I am looking for an opportunity to do an internship in the Front-End / Mobile area, I like to be always learning as much as I can. 
-
-
-
-- 🔭 I am currently studying at <strong> Front - End Web Development </strong>
-- 🌱 I'm currently learning <strong> React Native </strong>
-- 🔍 I intend to collaborate on <strong> Web front-end development projects </strong>
-- ⚡ Curiosity: I can talk 24 hours a day, 7 days a week about anime and technology. 
-
+<div align="center">
+  <a href="https://github.com/rafaelfelip">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfelip&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfelip&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ 
  ##
 <div align="center">
   <a href = "mailto: orafaelfelip@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
